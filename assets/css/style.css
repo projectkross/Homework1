@@ -64,7 +64,6 @@ a {
 
 section {
 	float:left;
-	overflow:auto;
 	margin-top: 200px;
 	padding: 30px 30px 30px 30px;
 	background: #fff;
